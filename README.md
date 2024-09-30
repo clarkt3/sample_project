@@ -1,4 +1,4 @@
-# sample_project
+# Learning Jupyter
 
 * **ipynb is what jupyter notebooks used to be called**
 
